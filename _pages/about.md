@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Haibo Tong
+# About Me
 
 ---
 
