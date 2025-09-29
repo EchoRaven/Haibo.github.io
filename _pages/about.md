@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Haibo Tian"
+title: "Haibo Tong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Haibo Tian
+# Haibo Tong
 
 ---
 
@@ -31,4 +31,4 @@ The long-term goal of my research is to contribute to the development of AI syst
 **Contact:**
 - Email: [haibot2@illinois.edu](mailto:haibot2@illinois.edu)
 - GitHub: [EchoRaven](https://github.com/EchoRaven)
-- Google Scholar: [Haibo Tian](https://scholar.google.com/citations?hl=zh-CN&user=s4B1efAAAAAJ&view_op=list_works&gmla=AH8HC4y9EinbP8nVCZVUgnRnaJBUY52Q3cqRa4WII3zxGyoDB2Y5SEuLsly0N2C37JWNBR0teZrpOpIpNisLgSE6N1AlfZJgs3XYY2HtsRwA4JnOJl6bzW-21TiTQqh76Sfo)
+- Google Scholar: [Haibo Tong](https://scholar.google.com/citations?hl=zh-CN&user=s4B1efAAAAAJ&view_op=list_works&gmla=AH8HC4y9EinbP8nVCZVUgnRnaJBUY52Q3cqRa4WII3zxGyoDB2Y5SEuLsly0N2C37JWNBR0teZrpOpIpNisLgSE6N1AlfZJgs3XYY2HtsRwA4JnOJl6bzW-21TiTQqh76Sfo)
