@@ -28,8 +28,9 @@ My research aims to build capable, safe, and trustworthy AI agents. My current w
 ## News
 
 - **May 2026** — We released [DTap](https://arxiv.org/abs/2605.04808), a controllable and interactive red-teaming platform for AI agents.
-- **Sep 2026** — Joined the [Secure Learning Lab](https://aisecure.github.io/) at UIUC as a Graduate Research Assistant.
+- **Sep 2026** — Appointed as a Graduate Research Assistant in the Secure Learning Lab.
 - **Sep 2025** — MJ-Video was accepted to **NeurIPS 2025**.
+- **Aug 2025** — Joined the [Secure Learning Lab](https://aisecure.github.io/) at UIUC, advised by Prof. Bo Li.
 - **Jan 2025** — Disentangle to Decay was accepted to **COLING 2025**.
 
 **Contact:**
