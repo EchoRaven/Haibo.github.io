@@ -11,24 +11,27 @@ redirect_from:
 
 ---
 
-I am a first-year Master's student in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), advised by [Prof. Bo Li](https://aisecure.github.io/) in the [Secure Learning Lab](https://aisecure.github.io/). 
+I am an M.S. student (thesis track) in Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I work as a Graduate Research Assistant advised by [Prof. Bo Li](https://aisecure.github.io/) in the [Secure Learning Lab](https://aisecure.github.io/).
 
 Previously, I received my Bachelor's degree in Computer Engineering from Shanghai Jiao Tong University.
 
-My research focuses on **multimodal large language models**, **AI safety**, and **AI agents**. I am particularly interested in developing safe, efficient, and practical multimodal agents that can effectively interact with and understand the world through multiple modalities.
+**I am applying to Ph.D. programs starting Fall 2027.**
 
-My research aims to build capable, safe, and trustworthy AI agents that learn from both observations and knowledge. I explore this through two pathways: (1) strengthening their internal intelligence and alignment by bootstrapping from experience and hindsight, and (2) applying external constraints grounded in human knowledge to achieve compliance and certifiability.
-
-The long-term goal of my research is to contribute to the development of AI systems that are not only powerful but also reliable, interpretable, and aligned with human values, particularly in multimodal settings where agents must process and reason about diverse types of information.
+My research aims to build capable, safe, and trustworthy AI agents. My current work centers on **AI agent safety and evaluation**: automated red-teaming of agentic systems, and scalable generation of interactive environments and benchmarks for measuring agent capability and safety. I am also broadly interested in **multimodal large language models** and reward modeling — my recent work MJ-Video (NeurIPS 2025) builds fine-grained preference benchmarks and reward models for video generation.
 
 **Research Interests:**
-- Multimodal Large Language Models
-- AI Safety and Alignment
-- AI Agents and Reasoning
+- AI Agent Safety, Red-Teaming, and Evaluation
+- Benchmark and Environment Generation for Agents
+- Multimodal Large Language Models and Reward Models
 - Trustworthy Machine Learning
-- Robust AI Systems
+
+## News
+
+- **Sep 2026** — Joined the [Secure Learning Lab](https://aisecure.github.io/) at UIUC as a Graduate Research Assistant.
+- **Sep 2025** — MJ-Video was accepted to **NeurIPS 2025**.
+- **Jan 2025** — Disentangle to Decay was accepted to **COLING 2025**.
 
 **Contact:**
 - Email: [haibot2@illinois.edu](mailto:haibot2@illinois.edu)
 - GitHub: [EchoRaven](https://github.com/EchoRaven)
-- Google Scholar: [Haibo Tong](https://scholar.google.com/citations?hl=zh-CN&user=s4B1efAAAAAJ&view_op=list_works&gmla=AH8HC4y9EinbP8nVCZVUgnRnaJBUY52Q3cqRa4WII3zxGyoDB2Y5SEuLsly0N2C37JWNBR0teZrpOpIpNisLgSE6N1AlfZJgs3XYY2HtsRwA4JnOJl6bzW-21TiTQqh76Sfo)
+- Google Scholar: [Haibo Tong](https://scholar.google.com/citations?user=s4B1efAAAAAJ)
