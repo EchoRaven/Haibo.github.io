@@ -25,6 +25,7 @@ Research Experience
 
 Selected Publications
 ======
+* **DTap: A Controllable and Interactive Red-Teaming Platform for AI Agents.** *arXiv preprint*, 2026.
 * **MJ-Video: Fine-Grained Benchmarking and Rewarding Video Preferences in Video Generation.** *NeurIPS*, 2025. (First author)
 * **Disentangle to Decay: Linear Attention with Trainable Decay Factor.** *COLING*, 2025. (First author)
 * **GLIMPSE: Do Large Vision-Language Models Truly Think with Videos or Just Glimpse at Them?** *EMNLP*, 2025. (Oral)
