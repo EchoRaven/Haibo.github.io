@@ -23,6 +23,11 @@ Research Experience
   * Scalable pipelines for generating verifiable interactive environments and agent benchmarks
   * First-authored MJ-Video (NeurIPS 2025): fine-grained video preference benchmarking and reward models
 
+Industry Experience
+======
+* **Software Engineer Intern**, Meta (Summer 2026)
+* **Research Intern**, Virtue AI (Summer 2026)
+
 Selected Publications
 ======
 * **DTap: A Controllable and Interactive Red-Teaming Platform for AI Agents.** *arXiv preprint*, 2026.

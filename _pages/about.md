@@ -13,7 +13,7 @@ redirect_from:
 
 I am an M.S. student (thesis track) in Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I work as a Graduate Research Assistant advised by [Prof. Bo Li](https://aisecure.github.io/) in the [Secure Learning Lab](https://aisecure.github.io/).
 
-Previously, I received my Bachelor's degree in Computer Science from Tongji University.
+Previously, I received my Bachelor's degree in Computer Science from Tongji University. In Summer 2026, I interned at **Meta** (Software Engineer Intern) and **Virtue AI** (Research Intern).
 
 **I am applying to Ph.D. programs starting Fall 2027.**
 
